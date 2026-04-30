@@ -1,0 +1,11 @@
+order_id,customer_name,email,country,order_date,revenue,age
+1001,Mario Rossi,mario@gmail.com,Italy,12/01/2025,€120,32.0
+1002,maria rossi,MARIA@gmail.com,ITALIA,2025-01-13,89€,
+1003,Luca Bianchi,luca@gmail,Italia,Jan 14 2025,one hundred,29.0
+1003,Luca Bianchi,luca@gmail,Italia,Jan 14 2025,one hundred,29.0
+1004,Anna Verdi,anna@gmail.com,italy,14-01-25,€250,150.0
+1005,,paolo@gmail.com,IT,missing,€75,-5.0
+1006,Giulia Neri,giulia@gmail.com,Italy ,2025/01/15,€200,27.0
+1007,Marco Blu,marco@gmail.com,Italya,15 Jan 2025,300€,40.0
+1008,Sara Gialli,sara@gmail,ITALY,2025.01.16,€180,
+1009,Paolo Rosa,paolo@gmail.com,IT,,€90,35.0

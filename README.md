@@ -58,7 +58,7 @@ The following steps were applied:
 
 ### 7. Age Cleaning
 
-* Removed unrealistic values (e.g. age > 100)
+* Removed unrealistic values (e.g. age < 0)
 * Handled missing values
 * Converted to integer type
 

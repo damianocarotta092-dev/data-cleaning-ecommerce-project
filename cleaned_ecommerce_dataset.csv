@@ -1,0 +1,9 @@
+order_id,customer_name,email,country,order_date,revenue_Euro(€),age
+1001,Mario Rossi,mario@gmail.com,Italy,2025-01-12,120.0,32
+1002,Maria Rossi,maria@gmail.com,Italy,2025-01-13,89.0,
+1003,Luca Bianchi,,Italy,2025-01-14,,29
+1004,Anna Verdi,anna@gmail.com,Italy,2025-01-14,250.0,
+1006,Giulia Neri,giulia@gmail.com,Italy,2025-01-15,200.0,27
+1007,Marco Blu,marco@gmail.com,Italy,2025-01-15,300.0,40
+1008,Sara Gialli,,Italy,2025-01-16,180.0,
+1009,Paolo Rosa,paolo@gmail.com,Italy,,90.0,35
